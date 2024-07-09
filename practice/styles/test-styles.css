@@ -1,0 +1,41 @@
+p{
+    font-family: Roboto;
+}
+
+.vid-title{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+
+.vid-stats{
+    font-size: 14px;
+    color: rgb(88, 88, 88);
+    margin-top: 0;
+}
+
+.name{
+    font-size: 14px;
+}
+
+.video-desc{
+    font-size: 14px;
+    width: 300px;
+    margin-bottom: 100px;
+}
+
+.apple-txt{
+    margin-bottom: 50px;
+    color: white;
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.span-link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
